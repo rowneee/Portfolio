@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
+import { Navbar, Nav } from 'react-bootstrap'
 import { Image, Col } from 'react-bootstrap'
 
 class NavDirectory extends React.Component {
