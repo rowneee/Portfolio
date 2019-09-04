@@ -10,7 +10,7 @@ class NavDirectory extends React.Component {
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Navbar.Brand href="#home">
           <Col xs={6} md={4}>
-            <Image src="https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg" roundedCircle style={{width:"100px", height:"80px"}} />
+            <Image src={require("/Users/ronishabo/Flatiron/Portfolio/portfolio-frontend/src/images/rslogo.png")} roundedCircle style={{width:"100px", height:"60px", width:"60px"}} />
           </Col>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

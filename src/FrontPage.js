@@ -13,7 +13,7 @@ class FrontPage extends React.Component {
     return (
       <div>
         <div class="bg-component" style={style} >
-          <h1 align="center">Portfolio</h1>
+          <h1 class="portfolio-header" align="center">Portfolio</h1>
         </div>
       </div>
     )
