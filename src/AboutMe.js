@@ -4,7 +4,8 @@ class AboutMe extends React.Component {
   render(){
     return(
       <div>
-        <h1>test</h1>
+        <h1>Roni Shabo</h1>
+        <h2>Full Stack Web Developer</h2>
       </div>
     )
   }

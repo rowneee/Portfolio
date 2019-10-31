@@ -2,14 +2,13 @@ import React from 'react'
 import Graphic from './Graphic'
 import AboutMe from './AboutMe'
 
-
 class FrontPage extends React.Component {
 
   render() {
     return (
       <div class="front-page">
-            <Graphic />
-            <AboutMe />
+        <Graphic />
+        <AboutMe />
       </div>
     )
   }
